@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Bhukya Nishanth</h1>
-<h3 align="center">A passionate FullStack Developer and Competitive Programmer</h3>
+<h1 align="center">Hi there! 👋 I'm Bhukya Nishanth</h1>
+<h3 align="center">A passionate FullStack developer and competitive programmer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeep&label=Profile%20views&color=0e75b6&style=flat" alt="anudeeps0306" /> </p>
 
 - 🎓 3rd-year CSE Undergrad at **Indian Institute Of Information Technology, JABALPUR.**
 
-- 💬 Ask me about [anything, I'd love to answer!](anything, I'd love to answer!)
+- 👀 Interested in **Competitive Programming & Web Development.**
+ 
+- 🌱 Currently exploring **Web Development and Open Source.**
+
+- 💬 Ask me about anything, I'd love to answer!
 
 - 📫 How to reach me [bhukyanishanth69@gmail.com](bhukyanishanth69@gmail.com)
 
-- 👀 Interested in **Competitive Programming & Web Development.**
-
-- 🌱 Currently exploring **Web Development and Open Source.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
