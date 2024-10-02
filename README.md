@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="Nishanth" /> </p>
 
-- 🎓 3rd-year CSE Undergrad at **Indian Institute Of Information Technology, JABALPUR.**
+- 🎓 Final-year CSE Undergrad at **Indian Institute Of Information Technology, JABALPUR.**
 
 - 👀 Interested in **Competitive Programming & Web Development.**
  
